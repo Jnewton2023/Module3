@@ -1,0 +1,49 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+nav {
+    background-color:black;
+}
+body {
+    background-color: darkgrey;
+}
+img {
+    width: 2540px;
+    height: 600px;
+}
+ul {
+    list-style-type: none;
+    margin: 20;
+    padding: 3;
+    overflow: hidden;
+}
+li {
+    display: inline;
+    color: white;
+}
+footer {
+    position: fixed;
+   left: 0;
+   bottom: 0px;
+   width: 100%;
+   background-color:black;
+   color: white;
+   text-align: center;
+}
+p {
+    color: white;
+}
+h1 {
+    color: white
+}
+.interior {
+    width: 400px;
+    height:20%;
+    float: right;
+    align-items: center;
+}
+div {
+    font-size: 20px;
+    color: gold;
+}
